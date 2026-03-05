@@ -10,6 +10,6 @@ public class ApiGatewayApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(ApiGatewayApplication.class, args);
-        log.info("LinkedMe API Gateway started on port 8080");
+        log.info("LinkedMe API Gateway started on port 8080 ");
     }
 }
